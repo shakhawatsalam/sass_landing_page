@@ -2,7 +2,6 @@
 import logoImage from "@/assets/images/sphereal-logo.svg?url";
 import { Button, ButtonProps } from "@/components/Button";
 import { Orbit } from "@/components/Orbit";
-import { a } from "framer-motion/client";
 
 import { useState } from "react";
 import { twMerge } from "tailwind-merge";
