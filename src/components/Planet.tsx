@@ -1,7 +1,7 @@
 import { cva } from "class-variance-authority";
 import { HTMLAttributes } from "react";
 
-const classes = cva("bg-gradient-to-b  to-gray-950 size-8 rounded-full", {
+const classes = cva("bg-gradient-to-b to-gray-950 rounded-full", {
   variants: {
     size: {
       sm: "size-4",
